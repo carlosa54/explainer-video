@@ -6,7 +6,7 @@ You describe what the video should explain. The agent writes the script with you
 
 The recipe was refined over many revisions of real videos: first cuts, voice upgrades, shorter edits, versions for non-technical audiences, cuts with live app screens, and re-voicing. The lessons from those rounds are written into the skill.
 
-[![A one-minute tour of this repository, made with the skill](docs/explainer-video-poster.png)](docs/explainer-video.mp4)
+https://github.com/user-attachments/assets/de5e57b0-fb37-4ffa-a060-e42e7cd569d3
 
 *A one-minute tour of this repository, made with the skill itself ([MP4](docs/explainer-video.mp4), [captions](docs/explainer-video.srt), [source](examples/repo-tour/)).*
 
