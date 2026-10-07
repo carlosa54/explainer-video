@@ -1,0 +1,61 @@
+1
+00:00:00,000 --> 00:00:05,637
+This is explainer-video: a skill that lets an
+agent make narrated, animated explainers.
+
+2
+00:00:05,677 --> 00:00:07,545
+This video was made with it.
+
+3
+00:00:08,433 --> 00:00:10,193
+You describe the topic.
+
+4
+00:00:10,233 --> 00:00:15,487
+The agent writes the script with you, animates it
+on free draft audio, and only then pays for the
+
+5
+00:00:15,527 --> 00:00:17,093
+real voice.
+
+6
+00:00:17,133 --> 00:00:21,520
+Then it renders every scene with Manim, and checks
+the result.
+
+7
+00:00:22,533 --> 00:00:28,226
+The voice returns a timestamp for every character.
+So when I say now, the picture moves.
+
+8
+00:00:28,266 --> 00:00:33,303
+The same timestamps cut the captions, so they land
+on the words too.
+
+9
+00:00:34,297 --> 00:00:38,869
+Every new cut is its own folder, so earlier
+versions stay intact.
+
+10
+00:00:39,382 --> 00:00:45,000
+Sentences are cached by their text, so a shorter
+edit only pays for what changed.
+
+11
+00:00:45,997 --> 00:00:51,762
+Before delivery, the kit checks decoding, loudness
+and caption timing, and Whisper listens to every
+
+12
+00:00:51,802 --> 00:00:53,356
+sentence.
+
+13
+00:00:54,464 --> 00:00:58,758
+Clone the repo, link the skill, and ask your agent
+for a video.
+
