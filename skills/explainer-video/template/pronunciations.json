@@ -1,0 +1,4 @@
+[
+  {"string_to_replace": "nginx", "alias": "engine X"},
+  {"string_to_replace": "Postgres", "alias": "POST-gress"}
+]

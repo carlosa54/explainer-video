@@ -1,0 +1,16 @@
+{
+  "name": "request-journey",
+  "title": "How a request reaches your app",
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "voice": {
+    "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    "voice_name": "George",
+    "model_id": "eleven_multilingual_v2",
+    "settings": {"stability": 0.55, "similarity_boost": 0.75, "style": 0.1, "use_speaker_boost": true, "speed": 1.0},
+    "seed": 7,
+    "context": true,
+    "audition_text": "nginx forwards the request to one of three replicas in about forty milliseconds."
+  },
+  "whisper_prompt": "nginx, DNS, Postgres"
+}
